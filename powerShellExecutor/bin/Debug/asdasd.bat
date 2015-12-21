@@ -1,1 +1,0 @@
-powershell -PSConsoleFile exampl.ps1
