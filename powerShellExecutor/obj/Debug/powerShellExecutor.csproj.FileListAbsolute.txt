@@ -1,0 +1,10 @@
+C:\devWork\App\sharpDevelop\Data\SharpDevelop Projects\powerShellExecutor\powerShellExecutor\obj\Debug\powerShellExecutor.csprojResolveAssemblyReference.cache
+C:\devWork\App\sharpDevelop\Data\SharpDevelop Projects\powerShellExecutor\powerShellExecutor\bin\Debug\powerShellExecutor.exe
+C:\devWork\App\sharpDevelop\Data\SharpDevelop Projects\powerShellExecutor\powerShellExecutor\bin\Debug\powerShellExecutor.pdb
+C:\devWork\App\sharpDevelop\Data\SharpDevelop Projects\powerShellExecutor\powerShellExecutor\obj\Debug\powerShellExecutor.exe
+C:\devWork\App\sharpDevelop\Data\SharpDevelop Projects\powerShellExecutor\powerShellExecutor\obj\Debug\powerShellExecutor.pdb
+C:\devWork\codeProjects\powerShellExecutor\powerShellExecutor\obj\Debug\powerShellExecutor.csprojResolveAssemblyReference.cache
+C:\devWork\codeProjects\powerShellExecutor\powerShellExecutor\obj\Debug\powerShellExecutor.exe
+C:\devWork\codeProjects\powerShellExecutor\powerShellExecutor\bin\Debug\powerShellExecutor.exe
+C:\devWork\codeProjects\powerShellExecutor\powerShellExecutor\bin\Debug\powerShellExecutor.pdb
+C:\devWork\codeProjects\powerShellExecutor\powerShellExecutor\obj\Debug\powerShellExecutor.pdb
